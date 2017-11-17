@@ -1,13 +1,17 @@
-# Tarif
+# QTarif
 Time value calculator
 
 This little program let you know the value of your time based on a minute cost, in an easy and fast way. 
 
 #How to install
 
+This software does not require installation. Just run the binary file included in the Zip.
+
+#How to build from source
+
 Just use QTCreator 5.7 or execute the following commands:
 
- qmake Tarif.pro  
+ qmake QTarif.pro  
  make all -j4  
  make clean  
 
