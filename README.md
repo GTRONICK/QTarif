@@ -9,7 +9,7 @@ This little program let you know the value of your time based on a minute cost, 
 
 This software does not require installation. Just run the binary file included in the Zip.
 
-#How to build from source
+## How to build from source
 
 Just use QTCreator 5.7 or execute the following commands:
 
@@ -19,10 +19,10 @@ Just use QTCreator 5.7 or execute the following commands:
 
 And you are done. You can find a executable file in the sources folder. 
 
-#How to use
+## How to use
 
 Just specify the cost of one minute, the starting hour, the end hour, and the rest time. Finally, press Calcular. 
 
-#How to contribute
+## How to contribute
 
 You can send your comments to contact@gtronick.com. 
