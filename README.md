@@ -7,7 +7,7 @@ This little program let you know the value of your time based on a minute cost, 
 
 #How to install
 
-This software does not require installation. Just run the binary file included in the Zip.
+This software does not require installation. Just run the binary file included in the Zip, or, if you have already downloaded any software from GTRONICK, just download the exe file and put it inside the downloaded folder. The exe o binary, must be in the same folder of the .dll or .so files.
 
 ## How to build from source
 
