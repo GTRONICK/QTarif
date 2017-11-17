@@ -1,6 +1,8 @@
 # QTarif
 Time value calculator
 
+![QTarif_GUI](https://sites.google.com/site/gtronick/QTarif.PNG)
+
 This little program let you know the value of your time based on a minute cost, in an easy and fast way. 
 
 #How to install
